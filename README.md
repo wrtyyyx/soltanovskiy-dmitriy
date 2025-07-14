@@ -26,7 +26,8 @@ Frontend Developer with solid commercial experience in HTML, CSS, JavaScript, Ty
 
 ## 💼 Work Experience
 
-### Frontend Developer at JunJun.io (2024–2025)
+### Frontend Developer at JunJun.io (2024–2025) <img width="45" height="45" alt="Jun Jun" src="https://github.com/user-attachments/assets/f7ddecae-32bc-4f2f-9c11-b5f8e0b10911" />
+
 - Built and refined UI components using React and JS/TS
 - Collaborated with senior developers and participated in code reviews
 - Delivered new features, fixed bugs, and ensured application stability
