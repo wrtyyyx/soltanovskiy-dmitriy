@@ -9,8 +9,7 @@ Frontend Developer with solid commercial experience in HTML, CSS, JavaScript, Ty
 
 * 🌍  I'm based in Odesa, Ukraine
 * ✉️  You can contact me at [volt96433@gmail.com](mailto:volt96433@gmail.com)
-* 🧠  I'm learning Vue.js
-* ⚡  I'm
+* 🧠  Now I'm learning Vue.js
 
 ---
 
